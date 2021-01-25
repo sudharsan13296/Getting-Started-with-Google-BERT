@@ -13,7 +13,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ## Get the book 
 <div>
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5">
   <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
 </a>
   
@@ -25,11 +25,11 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
   <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5">
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5">
   <img src="./images/googleplay_logo.png" alt="Google Play" >
 </a>
 <br>
