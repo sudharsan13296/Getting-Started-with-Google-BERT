@@ -43,7 +43,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ### [1. A Primer on Transformer](1.%20A%20primer%20on%20transformer)
 
-* 1.1. Introduction to transformer
+* [1.1. Introduction to transformer](1.%20A%20primer%20on%20transformer/1.01.%20Introduction%20to%20transformer.ipynb)
 * 1.2. Understanding encoder of transformer
 * 1.3. Self-attention mechanism
 * 1.4. Understanding self-attention mechansim
