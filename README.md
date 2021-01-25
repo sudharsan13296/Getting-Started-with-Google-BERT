@@ -37,9 +37,6 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 <br>
 
-# Table of Contents
-Download the detailed and complete table of contents from [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python/raw/master/pdf/table%20of%20contents.pdf)
-
 
 ### [1. A Primer on Transformer]()
 
