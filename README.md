@@ -34,8 +34,10 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 </a>
 <br>
 </div>
-
 <br>
+
+
+## Clone the repo and run in Google Colab
 
 
 ### [1. A Primer on Transformer](1.%20A%20primer%20on%20transformer)
