@@ -44,14 +44,14 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 ### [1. A Primer on Transformer](1.%20A%20primer%20on%20transformer)
 
 * [1.1. Introduction to transformer](1.%20A%20primer%20on%20transformer/1.01.%20Introduction%20to%20transformer.ipynb)
-* 1.2. Understanding encoder of transformer
-* 1.3. Self-attention mechanism
-* 1.4. Understanding self-attention mechansim
-* 1.5. Multi-head attention mechanism
-* 1.6. Learning position with positional encoding
-* 1.7. Feedforward network 
-* 1.8. Add and norm component 
-* 1.9. Putting all encoder components together
+* [1.2. Understanding encoder of transformer](1.%20A%20primer%20on%20transformer/1.02.%20Understanding%20Encoder%20of%20transformer.ipynb)
+* [1.3. Self-attention mechanism](1.%20A%20primer%20on%20transformer/1.03.%20Self-attention%20mechanism%20.ipynb)
+* [1.4. Understanding self-attention mechansim](1.%20A%20primer%20on%20transformer/1.04.%20%20Understanding%20Self-attention%20mechanism.ipynb)
+* [1.5. Multi-head attention mechanism](1.%20A%20primer%20on%20transformer/1.05.%20Multi-head%20attention%20mechanism.ipynb)
+* [1.6. Learning position with positional encoding](1.%20A%20primer%20on%20transformer/1.06.%20Learning%20position%20with%20positional%20Encoding%20.ipynb)
+* [1.7. Feedforward network](1.%20A%20primer%20on%20transformer/1.07.%20Feedforward%20network.ipynb)
+* [1.8. Add and norm component](1.%20A%20primer%20on%20transformer/1.08.%20Add%20and%20norm%20component%20.ipynb)
+* [1.9. Putting all encoder components together](1.%20A%20primer%20on%20transformer/1.09.%20Putting%20all%20encoder%20components%20together%20.ipynb)
 * 1.10. Understanding decoder of transformer
 * 1.11. Masked Multi-head attention
 * 1.12. Feedforward Network
