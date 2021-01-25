@@ -56,7 +56,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * 1.14. Linear and softmax layer
 * 1.15. Putting all decoder components together
 
-### [2. Understanding the BERT model]()
+### [2. Understanding the BERT model](2.%20Understanding%20BERT%20model)
 
 * 2.1. Basic idea of BERT
 * 2.2. Working of BERT
@@ -70,7 +70,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * 2.10. WordPiece 
 
 
-### [3. Getting hands-on with BERT]()
+### [3. Getting hands-on with BERT](3.%20Getting%20hands-on%20with%20BERT)
 
 * 3.1. Pre-trained BERT model
 * 3.2. Extracting embeddings from pre-trained BERT
@@ -83,7 +83,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * 3.9. Q&A with fine-tuned BERT 
 * 3.10. Named-entity recognition
 
-### [4. BERT variants I - ALBERT, RoBERTa, ELECTRA, SpanBERT]()
+### [4. BERT variants I - ALBERT, RoBERTa, ELECTRA, SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT)
 
 * 4.1. A Lite version of BERT
 * 4.2. Training the ALBERT
@@ -99,7 +99,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * 4.12. Performing question-answering with pre-trained
 SpanBERT 
 
-### [5. BERT variants II - Based on knowledge distillation]()
+### [5. BERT variants II - Based on knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
 
 * 5.1. Knowledge distillation
 * 5.2. DistilBERT - distilled version of BERT
@@ -112,7 +112,7 @@ SpanBERT
 * 5.9. Training the student network
 * 5.10. Data augmentation method
 
-### [6. Exploring BERTSUM for text summarization]()
+### [6. Exploring BERTSUM for text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization)
 
 * 6.1. Text summarization
 * 6.2. Fine-tuning BERT for text summarization
@@ -123,7 +123,7 @@ SpanBERT
 * 6.7. Training the BERTSUM model 
 
 
-### [7. Applying BERT for other languages]()
+### [7. Applying BERT for other languages](7.%20Applying%20BERT%20for%20other%20languages)
 
 * 7.1. Understanding multilingual BERT
 * 7.2. How multilingual is the multilingual BERT?
@@ -141,7 +141,7 @@ SpanBERT
 * 7.14. BERTimbau for Portuguese
 * 7.15. RuBERT for Russian 
 
-### [8. Exploring Sentence and Domain Specific BERT]()
+### [8. Exploring Sentence and Domain Specific BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT)
 
 * 8.1. Learning sentence representation with Sentence-BERT
 * 8.2. Understanding Sentence-BERT
@@ -155,7 +155,7 @@ SpanBERT
 * 8.10. Clinical BERT 
 * 8.11. BioBERT 
 
-### [9. Understanding VideoBERT, BART, and more]()
+### [9. Understanding VideoBERT, BART, and more](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more)
 
 * 9.1. Learning language and video representation with VideoBERT
 * 9.2. Pre-training objective
