@@ -130,7 +130,7 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 * [7.1. Understanding multilingual BERT](7.%20Applying%20BERT%20for%20other%20languages/7.01.%20Understanding%20multilingual%20BERT%20.ipynb)
 * 7.2. How multilingual is the multilingual BERT?
-* 7.3. Cross-lingual language model](7.%20Applying%20BERT%20for%20other%20languages/7.03.%20Cross-lingual%20language%20model%20%20.ipynb)
+* [7.3. Cross-lingual language model](7.%20Applying%20BERT%20for%20other%20languages/7.03.%20Cross-lingual%20language%20model%20%20.ipynb)
 * 7.4. Understanding XLM-R
 * 7.5. Language-specific BERT
 * 7.6. FlauBERT for French
@@ -160,15 +160,15 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [9. Understanding VideoBERT, BART, and more](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more)
 
-* 9.1. Learning language and video representation with VideoBERT
+* [9.1. Learning language and video representation with VideoBERT](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.01.%20Learning%20language%20and%20video%20representation%20with%20VideoBERT%20.ipynb)
 * 9.2. Pre-training objective
-* 9.3. Understanding BART
+* [9.3. Understanding BART](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.03.%20Understanding%20BART%20.ipynb)
 * 9.4. Noising techniques
-* 9.5. Performing text summarization with BART 
+* [9.5. Performing text summarization with BART](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.05.%20Performing%20text%20summarization%20with%20BART%20.ipynb)
 * 9.6. Ktrain
-* 9.7. Sentiment analysis using Ktrain 
-* 9.8. Building a document answering model 
-* 9.9. Document summarization 
-* 9.10. Computing sentence representation using BERT as service
-* 9.11. Computing contextual word representation 
+* [9.7. Sentiment analysis using Ktrain](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.07.%20Sentiment%20analysis%20using%20Ktrain.ipynb)
+* [9.8. Building a document answering model](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.08.%20Building%20a%20document%20answering%20model%20.ipynb)
+* [9.9. Document summarization](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.09.%20Document%20summarization.ipynb)
+* [9.10. Computing sentence representation using BERT as service](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.10.%20Computing%20sentence%20representation%20using%20BERT%20as%20service.ipynb)
+* [9.11. Computing contextual word representation](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.11.%20Computing%20contextual%20word%20representation%20.ipynb)
 
