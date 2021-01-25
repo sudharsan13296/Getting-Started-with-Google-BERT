@@ -13,23 +13,23 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ## Get the book 
 <div>
-<a target="_blank" href="https://www.oreilly.com/library/view/deep-reinforcement-learning/9781839210686/">
+<a target="_blank" href="#">
   <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
 </a>
   
-<a target="_blank" href="https://www.amazon.com/gp/product/B08HSHV72N/ref=dbs_a_def_rwt_bibl_vppi_i2">
+<a target="_blank" href="https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5">
   <img src="./images/amazon_logo.jpg" alt="Amazon" >
 </a>
 
-<a target="_blank" href="https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686">
+<a target="_blank" href="https://www.packtpub.com/product/getting-started-with-google-bert/9781838821593">
   <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
 </a>
 
-<a target="_blank" href="https://www.google.co.in/books/edition/Deep_Reinforcement_Learning_with_Python/dFkAEAAAQBAJ?hl=en&gbpv=0&kptab=overview">
+<a target="_blank" href="#">
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
-<a target="_blank" href="https://play.google.com/store/books/details/Sudharsan_Ravichandiran_Deep_Reinforcement_Learnin?id=dFkAEAAAQBAJ">
+<a target="_blank" href="#">
   <img src="./images/googleplay_logo.png" alt="Google Play" >
 </a>
 <br>
