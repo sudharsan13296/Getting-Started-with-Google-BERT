@@ -61,16 +61,16 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ### [2. Understanding the BERT model](2.%20Understanding%20BERT%20model)
 
-* 2.1. Basic idea of BERT
-* 2.2. Working of BERT
-* 2.3. Configuration of BERT
-* 2.4. Pre-training the BERT
-* 2.5. Pre-training strategies 
-* 2.6. Pre-training procedure
-* 2.7. Subword tokenization algorithms
-* 2.8. Byte pair encoding 
-* 2.9. Byte-level byte pair encoding 
-* 2.10. WordPiece 
+* [2.1. Basic idea of BERT](2.%20Understanding%20BERT%20model/2.01.%20Basic%20idea%20of%20BERT%20.ipynb
+* [2.2. Working of BERT](2.%20Understanding%20BERT%20model/2.02.%20Working%20of%20BERT%20.ipynb)
+* [2.3. Configuration of BERT](2.%20Understanding%20BERT%20model/2.03.%20Configuration%20of%20BERT%20.ipynb)
+* [2.4. Pre-training the BERT](2.%20Understanding%20BERT%20model/2.04.%20Pre-training%20the%20BERT%20.ipynb)
+* [2.5. Pre-training strategies](2.%20Understanding%20BERT%20model/2.05.%20Pre-training%20Strategies%20.ipynb)
+* [2.6. Pre-training procedure](2.%20Understanding%20BERT%20model/2.06.%20Pre-training%20procedure%20.ipynb)
+* [2.7. Subword tokenization algorithms](2.%20Understanding%20BERT%20model/2.07.%20Subword%20tokenization%20algorithms%20.ipynb)
+* [2.8. Byte pair encoding](2.%20Understanding%20BERT%20model/2.08.%20Byte%20pair%20encoding%20.ipynb)
+* [2.9. Byte-level byte pair encoding](2.%20Understanding%20BERT%20model/2.09.%20Byte-level%20byte%20pair%20encoding%20.ipynb)
+* [2.10. WordPiece](2.%20Understanding%20BERT%20model/2.10.%20WordPiece.ipynb)
 
 
 ### [3. Getting hands-on with BERT](3.%20Getting%20hands-on%20with%20BERT)
