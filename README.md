@@ -84,23 +84,23 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * [3.7. Natural language inference](3.%20Getting%20hands-on%20with%20BERT/3.07.%20Natural%20language%20inference%20.ipynb)
 * [3.8. Question answering](3.%20Getting%20hands-on%20with%20BERT/3.08.%20Question-Answering%20Task%20.ipynb)
 * [3.9. Q&A with fine-tuned BERT](3.%20Getting%20hands-on%20with%20BERT/3.09.%20Q%26A%20with%20finetuned%20BERT%20.ipynb)
-* [3.10. Named-entity recognition](3.%20Getting%20hands-on%20with%20BERT/3.10.%20Named-entity%20recognition%20.ipynb
+* [3.10. Named-entity recognition](3.%20Getting%20hands-on%20with%20BERT/3.10.%20Named-entity%20recognition%20.ipynb)
 
 ### [4. BERT variants I - ALBERT, RoBERTa, ELECTRA, SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT)
 
-* 4.1. A Lite version of BERT
-* 4.2. Training the ALBERT
-* 4.3. Extracting embedding with ALBERT
-* 4.4. Robustly Optimized BERT Pretraining Approach
-* 4.5. Exploring the RoBERTa tokenizer
-* 4.6. Understanding ELECTRA
+* [4.1. A Lite version of BERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.01.%20A%20Lite%20version%20of%20BERT%20.ipynb)
+* [4.2. Training the ALBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.02.%20Training%20the%20ALBERT%20.ipynb)
+* [4.3. Extracting embedding with ALBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.03.%20Extracting%20embeddings%20with%20ALBERT.ipynb)
+* [4.4. Robustly Optimized BERT Pretraining Approach](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.04.%20Robustly%20Optimized%20BERT%20Pre-training%20Approach.ipynb)
+* [4.5. Exploring the RoBERTa tokenizer](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.05.%20Exploring%20the%20RoBERTa%20tokenizer%20.ipynb)
+* [4.6. Understanding ELECTRA](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.06.%20Understanding%20ELECTRA%20.ipynb)
 * 4.7. Generator and discriminator of ELECTRA
 * 4.8. Training the ELECTRA model
 * 4.9. Predicting span with SpanBERT 
 * 4.10. Architecture of SpanBERT 
 * 4.11. Exploring SpanBERT
-* 4.12. Performing question-answering with pre-trained
-SpanBERT 
+* [4.12. Performing question-answering with pre-trained
+SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.12.%20Performing%20question-answering%20with%20pre-trained%0ASpanBERT%20.ipynb)
 
 ### [5. BERT variants II - Based on knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
 
