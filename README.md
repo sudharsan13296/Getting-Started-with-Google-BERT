@@ -61,7 +61,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ### [2. Understanding the BERT model](2.%20Understanding%20BERT%20model)
 
-* [2.1. Basic idea of BERT](2.%20Understanding%20BERT%20model/2.01.%20Basic%20idea%20of%20BERT%20.ipynb
+* [2.1. Basic idea of BERT](2.%20Understanding%20BERT%20model/2.01.%20Basic%20idea%20of%20BERT%20.ipynb)
 * [2.2. Working of BERT](2.%20Understanding%20BERT%20model/2.02.%20Working%20of%20BERT%20.ipynb)
 * [2.3. Configuration of BERT](2.%20Understanding%20BERT%20model/2.03.%20Configuration%20of%20BERT%20.ipynb)
 * [2.4. Pre-training the BERT](2.%20Understanding%20BERT%20model/2.04.%20Pre-training%20the%20BERT%20.ipynb)
@@ -75,16 +75,16 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ### [3. Getting hands-on with BERT](3.%20Getting%20hands-on%20with%20BERT)
 
-* 3.1. Pre-trained BERT model
-* 3.2. Extracting embeddings from pre-trained BERT
-* 3.3. Generating BERT embedding 
-* 3.4. Extracting embeddings from all encoder layers of BERT
-* 3.5. Finetuning BERT for downstream tasks 
-* 3.6. Text classification 
-* 3.7. Natural language inference
-* 3.8. Question answering 
-* 3.9. Q&A with fine-tuned BERT 
-* 3.10. Named-entity recognition
+* [3.1. Pre-trained BERT model](3.%20Getting%20hands-on%20with%20BERT/3.01.%20Pre-trained%20BERT%20model.ipynb)
+* [3.2. Extracting embeddings from pre-trained BERT](3.%20Getting%20hands-on%20with%20BERT/3.02.%20Extracting%20embeddings%20from%20pre-trained%20BERT%20.ipynb)
+* [3.3. Generating BERT embedding](3.%20Getting%20hands-on%20with%20BERT/3.03.%20Generating%20BERT%20embedding%20.ipynb)
+* [3.4. Extracting embeddings from all encoder layers of BERT](3.%20Getting%20hands-on%20with%20BERT/3.04.%20Extracting%20embeddings%20from%20all%20encoder%20layers%20of%20BERT.ipynb)
+* [3.5. Finetuning BERT for downstream tasks](3.%20Getting%20hands-on%20with%20BERT/3.05.%20Finetuning%20BERT%20for%20downstream%20tasks.ipynb)
+* [3.6. Text classification](3.%20Getting%20hands-on%20with%20BERT/3.06.%20Text%20classification.ipynb)
+* [3.7. Natural language inference](3.%20Getting%20hands-on%20with%20BERT/3.07.%20Natural%20language%20inference%20.ipynb)
+* [3.8. Question answering](3.%20Getting%20hands-on%20with%20BERT/3.08.%20Question-Answering%20Task%20.ipynb)
+* [3.9. Q&A with fine-tuned BERT](3.%20Getting%20hands-on%20with%20BERT/3.09.%20Q%26A%20with%20finetuned%20BERT%20.ipynb)
+* [3.10. Named-entity recognition](3.%20Getting%20hands-on%20with%20BERT/3.10.%20Named-entity%20recognition%20.ipynb
 
 ### [4. BERT variants I - ALBERT, RoBERTa, ELECTRA, SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT)
 
