@@ -128,17 +128,17 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [7. Applying BERT for other languages](7.%20Applying%20BERT%20for%20other%20languages)
 
-* 7.1. Understanding multilingual BERT
+* [7.1. Understanding multilingual BERT](7.%20Applying%20BERT%20for%20other%20languages/7.01.%20Understanding%20multilingual%20BERT%20.ipynb)
 * 7.2. How multilingual is the multilingual BERT?
-* 7.3. Cross-lingual language model
+* 7.3. Cross-lingual language model](7.%20Applying%20BERT%20for%20other%20languages/7.03.%20Cross-lingual%20language%20model%20%20.ipynb)
 * 7.4. Understanding XLM-R
 * 7.5. Language-specific BERT
 * 7.6. FlauBERT for French
-* 7.7. Getting representation of French sentence with FlauBERT
+* [7.7. Getting representation of French sentence with FlauBERT](7.%20Applying%20BERT%20for%20other%20languages/7.07.%20Getting%20representation%20of%20French%20sentence%20with%20FlauBERT%20.ipynb)
 * 7.8. BETO for Spanish
-* 7.9. Predicting masked word using BETO
+* [7.9. Predicting masked word using BETO](7.%20Applying%20BERT%20for%20other%20languages/7.09.Predicting%20masked%20word%20using%20BETO%20.ipynb)
 * 7.10. BERTJe for Dutch
-* 7.11. Next sentence prediction with BERTJe
+* [7.11. Next sentence prediction with BERTJe](7.%20Applying%20BERT%20for%20other%20languages/7.11.%20Next%20sentence%20prediction%20with%20BERTje.ipynb)
 * 7.12. German, Chinese, and Japanese BERT 
 * 7.13. understanding FinBERT and UmBERTo
 * 7.14. BERTimbau for Portuguese
@@ -146,13 +146,13 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [8. Exploring Sentence and Domain Specific BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT)
 
-* 8.1. Learning sentence representation with Sentence-BERT
+* [8.1. Learning sentence representation with Sentence-BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.01.%20Learning%20sentence%20representation%20with%20Sentence-BERT.ipynb)
 * 8.2. Understanding Sentence-BERT
-* 8.3. Exploring sentence-transformers library
+* [8.3. Exploring sentence-transformers library](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.03.%20Exploring%20sentence-transformers%20library%20.ipynb)
 * 8.4. Computing sentence representation using Sentence-BERT
-* 8.5. Computing sentence similarity 
+* [8.5. Computing sentence similarity](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.05.%20Computing%20sentence%20similarity%20.ipynb)
 * 8.6. Loading Custom models 
-* 8.7. Finding a similar sentence with Sentence-BERT 
+* [8.7. Finding a similar sentence with Sentence-BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.07.%20Finding%20a%20similar%20sentence%20with%20Sentence-BERT%20.ipynb)
 * 8.8. Learning multilingual embeddings through knowledge distillation
 * 8.9. Exploring Domain-specific BERT 
 * 8.10. Clinical BERT 
