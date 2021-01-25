@@ -104,26 +104,26 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [5. BERT variants II - Based on knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
 
-* 5.1. Knowledge distillation
-* 5.2. DistilBERT - distilled version of BERT
+* [5.1. Knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
+* [5.2. DistilBERT - distilled version of BERT](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.02.%20DistilBERT%20-%20distilled%20version%20of%20BERT%20.ipynb)
 * 5.3. Training the DistilBERT
-* 5.4. TinyBERT
+* [5.4. TinyBERT](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.04.%20TinyBERT.ipynb)
 * 5.5. Teacher-student architecture
 * 5.6. Training the TinyBERT
-* 5.7. Transferring knowledge from BERT to neural network
+* [5.7. Transferring knowledge from BERT to neural network](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.07.%20Transferring%20knowledge%20from%20BERT%20to%20Neural%20Networks.ipynb)
 * 5.8. Teacher-student architecture
 * 5.9. Training the student network
 * 5.10. Data augmentation method
 
 ### [6. Exploring BERTSUM for text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization)
 
-* 6.1. Text summarization
-* 6.2. Fine-tuning BERT for text summarization
+* [6.1. Text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization/6.01.%20Text%20summarization%20.ipynb)
+* [6.2. Fine-tuning BERT for text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization/6.02.%20Fine-tuning%20BERT%20for%20text%20summarization%20.ipynb)
 * 6.3. Extractive summarization using BERT
 * 6.4. Abstractive summarization using BERT
 * 6.5. Understanding ROUGE evaluation metric
 * 6.6. Performance of BERTSUM model
-* 6.7. Training the BERTSUM model 
+* [6.7. Training the BERTSUM model](6.%20Exploring%20BERTSUM%20for%20text%20summarization/6.07.%20Training%20the%20BERTSUM%20model%20.ipynb)
 
 
 ### [7. Applying BERT for other languages](7.%20Applying%20BERT%20for%20other%20languages)
