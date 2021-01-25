@@ -38,7 +38,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 <br>
 
 
-### [1. A Primer on Transformer]()
+### [1. A Primer on Transformer](1.%20A%20primer%20on%20transformer)
 
 * 1.1. Introduction to transformer
 * 1.2. Understanding encoder of transformer
