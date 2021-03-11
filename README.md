@@ -1,4 +1,4 @@
-# [Getting started with BERT](https://www.amazon.com/dp/1839210680/ref=cm_sw_r_tw_dp_x_avRDFb99EVTQ)
+# [Getting started with BERT](https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5)
 
 ### Build and train state-of-the-art natural language processing models using BERT 
 ## About the book
