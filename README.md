@@ -47,11 +47,11 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * [1.2. Understanding encoder of transformer](1.%20A%20primer%20on%20transformer/1.02.%20Understanding%20Encoder%20of%20transformer.ipynb)
 * [1.3. Self-attention mechanism](1.%20A%20primer%20on%20transformer/1.03.%20Self-attention%20mechanism%20.ipynb)
 * [1.4. Understanding self-attention mechansim](1.%20A%20primer%20on%20transformer/1.04.%20%20Understanding%20Self-attention%20mechanism.ipynb)
-* [1.5. Multi-head attention mechanism](1.%20A%20primer%20on%20transformer/1.05.%20Multi-head%20attention%20mechanism.ipynb)
-* [1.6. Learning position with positional encoding](1.%20A%20primer%20on%20transformer/1.06.%20Learning%20position%20with%20positional%20Encoding%20.ipynb)
-* [1.7. Feedforward network](1.%20A%20primer%20on%20transformer/1.07.%20Feedforward%20network.ipynb)
-* [1.8. Add and norm component](1.%20A%20primer%20on%20transformer/1.08.%20Add%20and%20norm%20component%20.ipynb)
-* [1.9. Putting all encoder components together](1.%20A%20primer%20on%20transformer/1.09.%20Putting%20all%20encoder%20components%20together%20.ipynb)
+* 1.5. Multi-head attention mechanism
+* 1.6. Learning position with positional encoding
+* 1.7. Feedforward network
+* 1.8. Add and norm component
+* 1.9. Putting all encoder components together
 * 1.10. Understanding decoder of transformer
 * 1.11. Masked Multi-head attention
 * 1.12. Feedforward Network
@@ -92,7 +92,7 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 * 4.2. Training the ALBERT
 * 4.3. Extracting embedding with ALBERT
 * 4.4. Robustly Optimized BERT Pretraining Approach
-* 4.5. Exploring the RoBERTa tokenizer](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.05.%20Exploring%20the%20RoBERTa%20tokenizer%20.ipynb)
+* [4.5. Exploring the RoBERTa tokenizer](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.05.%20Exploring%20the%20RoBERTa%20tokenizer%20.ipynb)
 * 4.6. Understanding ELECTRA
 * 4.7. Generator and discriminator of ELECTRA
 * 4.8. Training the ELECTRA model
