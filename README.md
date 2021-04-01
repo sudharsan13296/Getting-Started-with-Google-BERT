@@ -61,39 +61,39 @@ The book takes you through MBERT, XLM, and XLM-R in detail and then introduces y
 
 ### [2. Understanding the BERT model](2.%20Understanding%20BERT%20model)
 
-* [2.1. Basic idea of BERT](2.%20Understanding%20BERT%20model/2.01.%20Basic%20idea%20of%20BERT%20.ipynb)
-* [2.2. Working of BERT](2.%20Understanding%20BERT%20model/2.02.%20Working%20of%20BERT%20.ipynb)
-* [2.3. Configuration of BERT](2.%20Understanding%20BERT%20model/2.03.%20Configuration%20of%20BERT%20.ipynb)
-* [2.4. Pre-training the BERT](2.%20Understanding%20BERT%20model/2.04.%20Pre-training%20the%20BERT%20.ipynb)
-* [2.5. Pre-training strategies](2.%20Understanding%20BERT%20model/2.05.%20Pre-training%20Strategies%20.ipynb)
-* [2.6. Pre-training procedure](2.%20Understanding%20BERT%20model/2.06.%20Pre-training%20procedure%20.ipynb)
-* [2.7. Subword tokenization algorithms](2.%20Understanding%20BERT%20model/2.07.%20Subword%20tokenization%20algorithms%20.ipynb)
-* [2.8. Byte pair encoding](2.%20Understanding%20BERT%20model/2.08.%20Byte%20pair%20encoding%20.ipynb)
-* [2.9. Byte-level byte pair encoding](2.%20Understanding%20BERT%20model/2.09.%20Byte-level%20byte%20pair%20encoding%20.ipynb)
-* [2.10. WordPiece](2.%20Understanding%20BERT%20model/2.10.%20WordPiece.ipynb)
+* 2.1. Basic idea of BERT
+* 2.2. Working of BERT
+* 2.3. Configuration of BERT
+* 2.4. Pre-training the BERT
+* 2.5. Pre-training strategies
+* 2.6. Pre-training procedure
+* 2.7. Subword tokenization algorithms
+* 2.8. Byte pair encoding
+* 2.9. Byte-level byte pair encoding
+* 2.10. WordPiece
 
 
 ### [3. Getting hands-on with BERT](3.%20Getting%20hands-on%20with%20BERT)
 
-* [3.1. Pre-trained BERT model](3.%20Getting%20hands-on%20with%20BERT/3.01.%20Pre-trained%20BERT%20model.ipynb)
+* 3.1. Pre-trained BERT model
 * [3.2. Extracting embeddings from pre-trained BERT](3.%20Getting%20hands-on%20with%20BERT/3.02.%20Extracting%20embeddings%20from%20pre-trained%20BERT%20.ipynb)
 * [3.3. Generating BERT embedding](3.%20Getting%20hands-on%20with%20BERT/3.03.%20Generating%20BERT%20embedding%20.ipynb)
 * [3.4. Extracting embeddings from all encoder layers of BERT](3.%20Getting%20hands-on%20with%20BERT/3.04.%20Extracting%20embeddings%20from%20all%20encoder%20layers%20of%20BERT.ipynb)
-* [3.5. Finetuning BERT for downstream tasks](3.%20Getting%20hands-on%20with%20BERT/3.05.%20Finetuning%20BERT%20for%20downstream%20tasks.ipynb)
+* 3.5. Finetuning BERT for downstream tasks
 * [3.6. Text classification](3.%20Getting%20hands-on%20with%20BERT/3.06.%20Text%20classification.ipynb)
-* [3.7. Natural language inference](3.%20Getting%20hands-on%20with%20BERT/3.07.%20Natural%20language%20inference%20.ipynb)
-* [3.8. Question answering](3.%20Getting%20hands-on%20with%20BERT/3.08.%20Question-Answering%20Task%20.ipynb)
-* [3.9. Q&A with fine-tuned BERT](3.%20Getting%20hands-on%20with%20BERT/3.09.%20Q%26A%20with%20finetuned%20BERT%20.ipynb)
-* [3.10. Named-entity recognition](3.%20Getting%20hands-on%20with%20BERT/3.10.%20Named-entity%20recognition%20.ipynb)
+* 3.7. Natural language inference
+* 3.8. Question answering
+* 3.9. Q&A with fine-tuned BERT
+* 3.10. Named-entity recognition
 
 ### [4. BERT variants I - ALBERT, RoBERTa, ELECTRA, SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT)
 
-* [4.1. A Lite version of BERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.01.%20A%20Lite%20version%20of%20BERT%20.ipynb)
-* [4.2. Training the ALBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.02.%20Training%20the%20ALBERT%20.ipynb)
-* [4.3. Extracting embedding with ALBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.03.%20Extracting%20embeddings%20with%20ALBERT.ipynb)
-* [4.4. Robustly Optimized BERT Pretraining Approach](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.04.%20Robustly%20Optimized%20BERT%20Pre-training%20Approach.ipynb)
-* [4.5. Exploring the RoBERTa tokenizer](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.05.%20Exploring%20the%20RoBERTa%20tokenizer%20.ipynb)
-* [4.6. Understanding ELECTRA](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.06.%20Understanding%20ELECTRA%20.ipynb)
+* 4.1. A Lite version of BERT
+* 4.2. Training the ALBERT
+* 4.3. Extracting embedding with ALBERT
+* 4.4. Robustly Optimized BERT Pretraining Approach
+* 4.5. Exploring the RoBERTa tokenizer](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20SpanBERT/4.05.%20Exploring%20the%20RoBERTa%20tokenizer%20.ipynb)
+* 4.6. Understanding ELECTRA
 * 4.7. Generator and discriminator of ELECTRA
 * 4.8. Training the ELECTRA model
 * 4.9. Predicting span with SpanBERT 
@@ -104,21 +104,21 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [5. BERT variants II - Based on knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
 
-* [5.1. Knowledge distillation](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation)
-* [5.2. DistilBERT - distilled version of BERT](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.02.%20DistilBERT%20-%20distilled%20version%20of%20BERT%20.ipynb)
+* 5.1. Knowledge distillation
+* 5.2. DistilBERT - distilled version of BERT
 * 5.3. Training the DistilBERT
-* [5.4. TinyBERT](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.04.%20TinyBERT.ipynb)
+* 5.4. TinyBERT
 * 5.5. Teacher-student architecture
 * 5.6. Training the TinyBERT
-* [5.7. Transferring knowledge from BERT to neural network](5.%20BERT%20variants%20II%20-%20Based%20on%20knowledge%20distillation/5.07.%20Transferring%20knowledge%20from%20BERT%20to%20Neural%20Networks.ipynb)
+* 5.7. Transferring knowledge from BERT to neural network
 * 5.8. Teacher-student architecture
 * 5.9. Training the student network
 * 5.10. Data augmentation method
 
 ### [6. Exploring BERTSUM for text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization)
 
-* [6.1. Text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization/6.01.%20Text%20summarization%20.ipynb)
-* [6.2. Fine-tuning BERT for text summarization](6.%20Exploring%20BERTSUM%20for%20text%20summarization/6.02.%20Fine-tuning%20BERT%20for%20text%20summarization%20.ipynb)
+* 6.1. Text summarization
+* 6.2. Fine-tuning BERT for text summarization
 * 6.3. Extractive summarization using BERT
 * 6.4. Abstractive summarization using BERT
 * 6.5. Understanding ROUGE evaluation metric
@@ -128,9 +128,9 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [7. Applying BERT for other languages](7.%20Applying%20BERT%20for%20other%20languages)
 
-* [7.1. Understanding multilingual BERT](7.%20Applying%20BERT%20for%20other%20languages/7.01.%20Understanding%20multilingual%20BERT%20.ipynb)
+* 7.1. Understanding multilingual BERT
 * 7.2. How multilingual is the multilingual BERT?
-* [7.3. Cross-lingual language model](7.%20Applying%20BERT%20for%20other%20languages/7.03.%20Cross-lingual%20language%20model%20%20.ipynb)
+* 7.3. Cross-lingual language model
 * 7.4. Understanding XLM-R
 * 7.5. Language-specific BERT
 * 7.6. FlauBERT for French
@@ -146,7 +146,7 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [8. Exploring Sentence and Domain Specific BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT)
 
-* [8.1. Learning sentence representation with Sentence-BERT](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.01.%20Learning%20sentence%20representation%20with%20Sentence-BERT.ipynb)
+* 8.1. Learning sentence representation with Sentence-BERT
 * 8.2. Understanding Sentence-BERT
 * [8.3. Exploring sentence-transformers library](8.%20Exploring%20Sentence%20and%20Domain%20Specific%20BERT/8.03.%20Exploring%20sentence-transformers%20library%20.ipynb)
 * 8.4. Computing sentence representation using Sentence-BERT
@@ -160,9 +160,9 @@ SpanBERT](4.%20BERT%20variants%20I%20-%20ALBERT%2C%20RoBERTa%2C%20ELECTRA%2C%20S
 
 ### [9. Understanding VideoBERT, BART, and more](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more)
 
-* [9.1. Learning language and video representation with VideoBERT](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.01.%20Learning%20language%20and%20video%20representation%20with%20VideoBERT%20.ipynb)
+* 9.1. Learning language and video representation with VideoBERT
 * 9.2. Pre-training objective
-* [9.3. Understanding BART](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.03.%20Understanding%20BART%20.ipynb)
+* 9.3. Understanding BART
 * 9.4. Noising techniques
 * [9.5. Performing text summarization with BART](9.%20Understanding%20VideoBERT%2C%20BART%2C%20and%20more/9.05.%20Performing%20text%20summarization%20with%20BART%20.ipynb)
 * 9.6. Ktrain
