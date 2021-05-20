@@ -1,4 +1,4 @@
-# [Getting started with BERT](https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5)
+# [Getting started with Google BERT](https://www.amazon.com/gp/product/B08LLDF377/ref=dbs_a_def_rwt_bibl_vppi_i5)
 
 ### Build and train state-of-the-art natural language processing models using BERT 
 ## About the book
